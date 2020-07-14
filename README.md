@@ -11,4 +11,11 @@ This is a very basic engine constructed from a Decision Tree Classifier. The tra
 The results of this quiz only include the predicted/most fitted career field with basic requirements and responsibilies along direct links to GigKoala.com, providing further information on current job listings is beyond the scope of this project. 
 
 The user interface is built using Python Dash deployed to Heroku App.
+
 Link to quiz: https://gigkoala.herokuapp.com
+
+### Files:
+1. job_field_desc.xlsx: basic requirements and general responsibilities for jobs in each career field
+2. job_quiz.xlsx: what we gathered from research; 9 columns representing 9 questions on quiz
+3. Random_df.csv: randomly shuffled records and manually labeled career field 
+4. app.py
